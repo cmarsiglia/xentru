@@ -175,8 +175,8 @@ export function Contact() {
       </Container>
 
       <Container className="mt-20 border-t border-white/10 py-8">
-        <p className="font-display text-[clamp(3rem,13vw,10rem)] font-semibold leading-none tracking-tight text-white/10 select-none">
-          xentru.
+        <p className="font-logo text-[clamp(3rem,13vw,10rem)] font-semibold leading-none tracking-tight text-white/10 select-none">
+          xentru<span className="text-primary">.</span>
         </p>
       </Container>
     </section>

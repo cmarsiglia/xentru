@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Geist, Source_Sans_3 } from "next/font/google";
+import { Geist, Outfit, Source_Sans_3 } from "next/font/google";
 import "./globals.css";
 
 const geist = Geist({
@@ -9,6 +9,12 @@ const geist = Geist({
 
 const sourceSans = Source_Sans_3({
   variable: "--font-body",
+  subsets: ["latin"],
+  display: "swap",
+});
+
+const outfit = Outfit({
+  variable: "--font-outfit",
   subsets: ["latin"],
   display: "swap",
 });
@@ -35,7 +41,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="es"
-      className={`${geist.variable} ${sourceSans.variable} h-full antialiased`}
+      className={`${geist.variable} ${sourceSans.variable} ${outfit.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">{children}</body>
     </html>

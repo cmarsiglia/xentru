@@ -20,7 +20,7 @@ export function Footer() {
       <Container>
         <div className="flex flex-col gap-8 border-t border-white/10 pt-10 sm:flex-row sm:items-start sm:justify-between">
           <div>
-            <a href="#" className="font-display text-xl font-semibold tracking-tight">
+            <a href="#" className="font-logo text-xl font-semibold tracking-tight">
               xentru<span className="text-primary">.</span>
             </a>
             <p className="mt-3 max-w-xs text-sm leading-relaxed text-white/50">

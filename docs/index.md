@@ -1,0 +1,6 @@
+Crea una landing page para la empresa xentru
+
+Xentru: es una empresa que se enfoca en ofrecer soluciones, servicios e implementacion de automatizaciones con AI y agente de AI a nivel latam especialmente en colombia,
+nuestro nicho de clientes son empresas o negocios que desean vender, captar, calificar y hacer seguimiento a sus lead usando diferentes canales de atraccion como meta ads, tiktok ads, google ads, pixel de meta aterrizando a los lead a canales como whatsapp, mensajes directos en instagram, facebook, comentarios automatizados, tambien se ofrece la integracion de smart form, widget de chat embebido en la web y creacion de landingpages y tiendas virtuales con shopify para captar mas clientes, a nivel de servicios se ofrece sistema de trafiquer de meta para gestionar sus creativos y anuncio en las diferentes redes sociales
+
+Usa esta pagina: https://rozen-template.webflow.io/ como referencia para crear la pagina de xentru usando los colores como paleta de colores e identidad de marca mejorando la tipografia que ayude a tener un texto mas facil de leer y secciones profesionales y limpia
